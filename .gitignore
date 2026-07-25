@@ -1,0 +1,15 @@
+node_modules/
+dist/
+target/
+*.db
+*.db-journal
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+*.rlib
